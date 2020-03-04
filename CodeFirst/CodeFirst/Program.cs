@@ -56,34 +56,32 @@ namespace CodeFirst
     {
 
 
-
-
         static void Main(string[] args)
         {
 
             using (var context = new MyContext())
             {
                 // Create and save a new Students
-                Console.WriteLine("Adding new students");
+                //Console.WriteLine("Adding new students");
 
-                var student = new Student
-                {
-                    FirstMidName = "Alain",
-                    LastName = "Bomer",
-                    EnrollmentDate = DateTime.Parse(DateTime.Today.ToString())
-                };
+                //var student = new Student
+                //{
+                //    FirstMidName = "Alain",
+                //    LastName = "Bomer",
+                //    EnrollmentDate = DateTime.Parse(DateTime.Today.ToString())
+                //};
 
-                context.Students.Add(student);
+                //context.Students.Add(student);
 
-                var student1 = new Student
-                {
-                    FirstMidName = "Mark",
-                    LastName = "Upston",
-                    EnrollmentDate = DateTime.Parse(DateTime.Today.ToString())
-                };
+                //var student1 = new Student
+                //{
+                //    FirstMidName = "Mark",
+                //    LastName = "Upston",
+                //    EnrollmentDate = DateTime.Parse(DateTime.Today.ToString())
+                //};
 
-                context.Students.Add(student1);
-                context.SaveChanges();
+                //context.Students.Add(student1);
+                //context.SaveChanges();
 
                 // Display all Students from the database
                 var students = (from s in context.Students
