@@ -1,0 +1,10 @@
+E:\project\EFcode\EFcode\bin\Debug\EFcode.exe.config
+E:\project\EFcode\EFcode\bin\Debug\EFcode.exe
+E:\project\EFcode\EFcode\bin\Debug\EFcode.pdb
+E:\project\EFcode\EFcode\bin\Debug\EntityFramework.dll
+E:\project\EFcode\EFcode\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\EFcode\EFcode\bin\Debug\EntityFramework.xml
+E:\project\EFcode\EFcode\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\EFcode\EFcode\obj\Debug\EFcode.csprojResolveAssemblyReference.cache
+E:\project\EFcode\EFcode\obj\Debug\EFcode.exe
+E:\project\EFcode\EFcode\obj\Debug\EFcode.pdb
