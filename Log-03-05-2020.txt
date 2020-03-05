@@ -1,0 +1,35 @@
+AutoId 0 UserName  Password  
+AutoId 0 UserName  Password  
+AutoId 0 UserNamerabiranjan kumar  Password  
+AutoId 0 UserNamerabiranjan kumar  Password  1301227122
+post data is not null  
+post data is not null  
+post data is not null  
+post data is not null  
+AutoId 0 UserName  Password  
+post data is not null  
+AutoId 0 UserName  Password  
+post data is not null  
+AutoId 0 UserName  Password  
+post data is not null  
+AutoId 0 UserNamerabiranjan kumar  Password  gertfwq
+post data is not null  
+AutoId 0 UserNamerabiranjan kumar  Password  gertfwq
+======================================================= 
+2
+Retrieve all Students from the database:
+ID: 1   name   Alain Bomer
+ID: 2   name   Mark Upston
+CREATE METHOD CALLED 
+AutoId 0 UserNamerabiranjan kumar  Password  122
+CREATE METHOD CALLED 
+AutoId 0 UserNamerabiranjan kumar  Password  122
+CREATE METHOD CALLED 
+AutoId 0 UserNamerabiranjan kumar  Password  122
+======================================================= 
+2
+Retrieve all Students from the database:
+ID: 1   name   Alain Bomer
+ID: 2   name   Mark Upston
+CREATE METHOD CALLED 
+AutoId 0 UserNamerabiranjan kumar  Password  122
