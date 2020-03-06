@@ -11,3 +11,6 @@ git commit -m "adding Files"
 git remote add origin https://github.com/rabiranjansingh/.netApps.git
 
 git push --force origin master
+
+
+Install-Package Newtonsoft.Json -Version 12.0.3
