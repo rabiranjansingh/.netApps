@@ -16,3 +16,25 @@ Double:
 It is 64-bit double-precision floating point type. It has 14 – 15 digit Precision.
 To initialize a double variable, use the suffix d or D. But it is not mandatory to use
 suffix because by default floating data types are the double type.
+
+
+WHEN USE DECIMAL OR DOUBLE
+
+Use decimal whenever you're dealing with quantities that you want to (and can) be represented exactly in base-10.
+That includes monetary values, because you want 2.1234 to be represented exactly as 2.1234.
+
+Use double when you don't need an exact representation in base-10. This is usually good for handling measurements, 
+because those are already approximations, not exact quantities.
+
+Of course, if having or not an exact representation in base-10 is not important to you, 
+other factors come into consideration, which may or may not matter depending on the specific situation:
+
+double has a larger range (it can handle very large and very small magnitudes);
+decimal has more precision (has more significant digits);
+you may need to use double to interact with some older APIs that are not aware of decimal;
+double is faster than decimal;
+decimal has a larger memory footprint;
+
+for stock price use double 
+
+
