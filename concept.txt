@@ -1,1 +1,18 @@
 C:\Users\rabit\Documents\SQL Server Management Studio \  all sql query
+
+
+float a=5.5f; /// i have to provide the f at the ned otherwise it is treat as double 
+A 32-bit floating point number
+
+Floating Point Types :
+There are 2 floating point data types which contain the decimal point.
+
+Float: 
+It is 32-bit single-precision floating point type. 
+It has 7 digit Precision. To initialize a float variable, use the suffix f or F. 
+Like, float x = 3.5F;. If the suffix F or f will not use then it is treated as double.
+
+Double:
+It is 64-bit double-precision floating point type. It has 14 – 15 digit Precision.
+To initialize a double variable, use the suffix d or D. But it is not mandatory to use
+suffix because by default floating data types are the double type.
